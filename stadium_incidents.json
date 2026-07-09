@@ -1,0 +1,32 @@
+[
+    {
+        "id": "INC-001",
+        "timestamp": "2026-07-09 04:32:00",
+        "zone": "Gate D",
+        "category": "Crowd Control",
+        "description": "Minor bottleneck at turnstiles due to scanner ticket failures.",
+        "severity": "Medium",
+        "status": "Active",
+        "reported_by": "Carlos Gomez"
+    },
+    {
+        "id": "INC-002",
+        "timestamp": "2026-07-09 04:55:00",
+        "zone": "Stand East",
+        "category": "Medical",
+        "description": "Spectator experiencing heat exhaustion in Row 14.",
+        "severity": "High",
+        "status": "Active",
+        "reported_by": "Sarah Jenkins"
+    },
+    {
+        "id": "INC-003",
+        "timestamp": "2026-07-09 05:05:00",
+        "zone": "Concession Row",
+        "category": "Infrastructure",
+        "description": "Minor water leak near POS registers at FIFA Bites.",
+        "severity": "Low",
+        "status": "Active",
+        "reported_by": "Yuki Tanaka"
+    }
+]
